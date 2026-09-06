@@ -3453,6 +3453,7 @@ srcs = [
     "../svg/emoji_u1fae9.svg",
     "../svg/emoji_u1faea.svg",
     "../svg/emoji_u1faef.svg",
+    "../svg/emoji_u1faeb.svg",
     "../svg/emoji_u1faf0.svg",
     "../svg/emoji_u1faf0_1f3fb.svg",
     "../svg/emoji_u1faf0_1f3fc.svg",
